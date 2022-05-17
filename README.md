@@ -1,4 +1,6 @@
-# simple-gpt2 ([PyPI](https://pypi.org/project/simple-gpt2/))
+
+
+# simple-gpt2 ([PyPI](https://pypi.org/project/simple-gpt2/)) ![PyPI - Downloads](https://img.shields.io/pypi/dm/simple-gpt2) ![PyPI - License](https://img.shields.io/pypi/l/simple-gpt2)
 Python package for generating text using DeepAI's GPT-2 API.
 
 Requires no configuration from user besides providing an API key from [DeepAI](https://deepai.org).
